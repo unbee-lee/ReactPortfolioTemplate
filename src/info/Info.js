@@ -54,7 +54,7 @@ export const info = {
     ],
     socials: [
         {
-            link: "https://github.com/Unbee-lee",
+            link: "https://github.com/unbee-lee",
             icon: "fa fa-github",
             label: 'github'
         },
@@ -93,14 +93,14 @@ export const info = {
     portfolio: [ // This is where your portfolio projects will be detailed
         {
             title: "Theme park simulation",
-            live: "https://github.com/Unbee-lee/Themepark-Simulation", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/Unbee-lee/Themepark-Simulation", // this should be a link to the **repository** of the project, where the code is hosted.
+            live: "https://github.com/unbee-lee/Themepark-Simulation", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            source: "https://github.com/unbee-lee/Themepark-Simulation", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
             title: "Coming soon",
-            live: "https://github.com/Unbee-lee/Building-a-classification-model",
-            source: "https://github.com/Unbee-lee/Building-a-classification-model",
+            live: "https://github.com/unbee-lee/Building-a-classification-model",
+            source: "https://github.com/unbee-lee/Building-a-classification-model",
             image: mock2
         }
         // {
